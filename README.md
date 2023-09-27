@@ -1,0 +1,2 @@
+# GeoWeb-Issues
+web地図制作でつまずいた課題やその解決方法をissueでまとめておく
